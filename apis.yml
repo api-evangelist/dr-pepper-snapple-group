@@ -23,6 +23,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/dr-pepper-snapple-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/keurig-dr-pepper-inc
   - type: Website
@@ -52,6 +54,8 @@ common:
   - type: Brand
     url: https://www.peets.com
     name: Peet's Coffee
+  - url: https://www.keurigdrpepper.com/feed
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
