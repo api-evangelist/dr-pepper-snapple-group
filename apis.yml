@@ -10,6 +10,17 @@ description: >-
   portfolio of more than 150 brands including Dr Pepper, 7UP, Snapple, Canada
   Dry, Keurig, and Peet's Coffee.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
