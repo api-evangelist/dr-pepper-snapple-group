@@ -1,7 +1,9 @@
 ---
 title: Keurig Dr. Pepper, Vistra and Nvidia are among market ...
 url: https://www.facebook.com/dallasmorningnews/posts/keurig-dr-pepper-vistra-and-nvidia-are-among-market-movers-that-will-give-impora/1372442534924581/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dr Pepper Snapple Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Keurig to take control of Dr Pepper Snapple in $18.7-billion ...
 url: https://www.latimes.com/business/la-fi-dr-pepper-snapple-keurig-20180129-story.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dr Pepper Snapple Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

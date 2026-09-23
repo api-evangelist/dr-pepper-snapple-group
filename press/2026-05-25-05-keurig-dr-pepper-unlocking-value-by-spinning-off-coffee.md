@@ -1,7 +1,9 @@
 ---
 title: 'Keurig Dr Pepper: Unlocking Value By Spinning Off Coffee'
 url: https://seekingalpha.com/article/4823344-keurig-dr-pepper-unlocking-value-by-spinning-off-coffee
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dr Pepper Snapple Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
